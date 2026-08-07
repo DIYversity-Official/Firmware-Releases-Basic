@@ -1,1 +1,1 @@
-{"ver": "9.9.0", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "test release"}
+{"ver": "1.0.4", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "3-tier ABL + join-resync + boot speedup"}
