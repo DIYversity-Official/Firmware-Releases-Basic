@@ -24,6 +24,9 @@ DIYversity 스마트 라인조명(Basic 라인)의 정식 펌웨어 배포 저�
 
 이 펌웨어는 **MIT 라이선스로 배포되던 시기의 [WLED](https://github.com/wled/WLED)
 프로젝트를 기반**으로, DIYversity 제품을 위한 기능을 더해 제작되었습니다.
+
+- 기반 버전: WLED **0.15.0-b6**
+- 기반 커밋: [`44e28f96`](https://github.com/wled/WLED/commit/44e28f96e0af0c78cb1b902a45b6332dcacd10e0) (2024-10-15, MIT 라이선스 시기의 마지막 기반 시점)
 훌륭한 토대를 만들어 주신 WLED와 기여자 여러분께 감사드립니다.
 
 This firmware is based on the WLED project as licensed under the MIT
