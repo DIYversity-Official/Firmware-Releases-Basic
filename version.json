@@ -1,1 +1,1 @@
-{"ver": "1.0.4", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "3-tier ABL + join-resync + boot speedup"}
+{"ver": "1.0.5", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "PV3 핀 스왑(센서 ID=GPIO1) + 내부 안정화"}
