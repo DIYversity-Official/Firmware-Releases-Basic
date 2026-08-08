@@ -1,1 +1,1 @@
-{"ver": "1.0.6", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "전류 조정 배너가 상단 UI를 가리던 문제 수정"}
+{"ver": "1.0.7", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "안정성 강화: 전원 이상 자동복구와 안전 차단, 내부 보호 로직 개선"}
