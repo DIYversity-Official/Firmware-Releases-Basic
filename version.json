@@ -1,1 +1,1 @@
-{"ver": "1.0.5", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "PV3 핀 스왑(센서 ID=GPIO1) + 내부 안정화"}
+{"ver": "1.0.6", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "전류 조정 배너가 상단 UI를 가리던 문제 수정"}
