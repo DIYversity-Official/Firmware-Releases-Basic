@@ -1,1 +1,1 @@
-{"ver": "1.0.7", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "안정성 강화: 전원 이상 자동복구와 안전 차단, 내부 보호 로직 개선"}
+{"ver": "1.0.8", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "사용하지 않는 연출 정리, 이상 기록 보관, 화면 아이콘 개선"}
