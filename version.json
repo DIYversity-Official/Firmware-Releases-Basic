@@ -1,1 +1,1 @@
-{"ver": "1.0.8", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "사용하지 않는 연출 정리, 이상 기록 보관, 화면 아이콘 개선"}
+{"ver": "1.0.9", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "네트워크 끊김·재시작 기록(전원 기록과 분리, 각 30건), 트리거 2채널(GPIO20, 그룹 전파), RMT 펄럭임 해결(고우선순위 RMT 드라이버), 화이트 테마(다크/화이트/시스템)"}
