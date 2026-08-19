@@ -1,1 +1,1 @@
-{"ver": "1.0.10", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "핫픽스: 고우선순위 RMT 드라이버 원복 - 인터럽트 워치독 재부팅(1.5~4시간 주기) 해소. 펄럭임 대책은 재검토 중. 1.0.9 사용자는 반드시 업데이트 권장"}
+{"ver": "1.0.11", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "RMT 펄럭임 최종 해결 - 고우선순위 RMT 드라이버를 올바른 인터럽트 레벨로 재적용(1.0.10의 재부팅 문제 없이 펄럭임 0, 7시간 소크 검증). 재시작 기록에 리셋 원인 상세 추가"}
