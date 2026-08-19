@@ -1,1 +1,1 @@
-{"ver": "1.0.9", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "네트워크 끊김·재시작 기록(전원 기록과 분리, 각 30건), 트리거 2채널(GPIO20, 그룹 전파), RMT 펄럭임 해결(고우선순위 RMT 드라이버), 화이트 테마(다크/화이트/시스템)"}
+{"ver": "1.0.10", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "핫픽스: 고우선순위 RMT 드라이버 원복 - 인터럽트 워치독 재부팅(1.5~4시간 주기) 해소. 펄럭임 대책은 재검토 중. 1.0.9 사용자는 반드시 업데이트 권장"}
