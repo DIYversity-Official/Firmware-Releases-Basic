@@ -1,1 +1,1 @@
-{"ver": "1.0.11", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "RMT 펄럭임 최종 해결 - 고우선순위 RMT 드라이버를 올바른 인터럽트 레벨로 재적용(1.0.10의 재부팅 문제 없이 펄럭임 0, 7시간 소크 검증). 재시작 기록에 리셋 원인 상세 추가"}
+{"ver": "1.0.12", "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin", "notes": "구간 나누기(가상 슬레이브): 한 제어기의 라인을 최대 4조각으로 나눠 위치·방향 독립 / 딜레이: 함께 재생에서 기기·조각마다 연출 시작 기준 늦은 시작(0.1초 단위) / 함께 재생에서 조각은 독립 재생 / 새 연출 DIY 웰컴(켜짐유지) / 구성 목록 2열 접힘·미리보기 라벨 개선 / 연결 모드 설정값 되읽기 수정 / 설정 저장 소실(락 경쟁) 수정"}
