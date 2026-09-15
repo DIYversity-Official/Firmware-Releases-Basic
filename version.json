@@ -1,12 +1,12 @@
 {
- "ver": "1.0.28",
+ "ver": "1.0.29",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "펌웨어 버전 첫 숫자를 하드웨어 계열 구분자로 삼습니다. 다른 계열(다른 보드)의 펌웨어는 올라가지 않고, 하드웨어가 실제로 바뀐 것이 확인되면 계열 전환을 안내합니다.",
+ "notes": "업데이트 요청과 계열 서명 검증을 강화하고, 전원 레일 감시의 진단 표시를 바로잡았습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.28",
+   "ver": "1.0.29",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "펌웨어 버전 첫 숫자를 하드웨어 계열 구분자로 삼습니다. 다른 계열(다른 보드)의 펌웨어는 올라가지 않고, 하드웨어가 실제로 바뀐 것이 확인되면 계열 전환을 안내합니다."
+   "notes": "업데이트 요청과 계열 서명 검증을 강화하고, 전원 레일 감시의 진단 표시를 바로잡았습니다."
   }
  }
 }
