@@ -1,12 +1,12 @@
 {
- "ver": "1.0.31",
+ "ver": "1.0.32",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "그룹 안에 버전이 다른 제어기가 있으면 최신 버전으로 저절로 맞춰집니다(뒤처진 제어기만 다시 시작합니다). 순정 WLED 화면을 제거해 확보한 공간에 이 기능을 넣었고, 펌웨어 파일을 직접 올리는 기능은 개발자 모드로 옮겼습니다.",
+ "notes": "업데이트 중 조명이 여러 번 깜박이는 것이 정상이라는 안내를 추가했습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.31",
+   "ver": "1.0.32",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "그룹 안에 버전이 다른 제어기가 있으면 최신 버전으로 저절로 맞춰집니다(뒤처진 제어기만 다시 시작합니다). 순정 WLED 화면을 제거해 확보한 공간에 이 기능을 넣었고, 펌웨어 파일을 직접 올리는 기능은 개발자 모드로 옮겼습니다."
+   "notes": "업데이트 중 조명이 여러 번 깜박이는 것이 정상이라는 안내를 추가했습니다."
   }
  }
 }
