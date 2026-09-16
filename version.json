@@ -1,12 +1,12 @@
 {
- "ver": "1.0.29",
+ "ver": "1.0.30",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "업데이트 요청과 계열 서명 검증을 강화하고, 전원 레일 감시의 진단 표시를 바로잡았습니다.",
+ "notes": "제어기 WiFi 를 다시 입력할 수 있고, 입력한 뒤 연결 성공·실패와 이유를 화면에서 바로 알려줍니다. 초기화한 기기가 옛 그룹에 다시 묶이지 않고, 슬레이브 화면에서도 그룹 설정을 바꿀 수 있습니다. 앱에서 켤 때 웰컴 연출이 매번 재생되고, 업데이트·재부팅 중 안내와 전원 경고를 보완했습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.29",
+   "ver": "1.0.30",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "업데이트 요청과 계열 서명 검증을 강화하고, 전원 레일 감시의 진단 표시를 바로잡았습니다."
+   "notes": "제어기 WiFi 를 다시 입력할 수 있고, 입력한 뒤 연결 성공·실패와 이유를 화면에서 바로 알려줍니다. 초기화한 기기가 옛 그룹에 다시 묶이지 않고, 슬레이브 화면에서도 그룹 설정을 바꿀 수 있습니다. 앱에서 켤 때 웰컴 연출이 매번 재생되고, 업데이트·재부팅 중 안내와 전원 경고를 보완했습니다."
   }
  }
 }
