@@ -1,12 +1,12 @@
 {
- "ver": "1.0.32",
+ "ver": "1.0.33",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "업데이트 중 조명이 여러 번 깜박이는 것이 정상이라는 안내를 추가했습니다.",
+ "notes": "앱에서 '전체 로그'가 내려받아지지 않던 문제를 고쳤습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.32",
+   "ver": "1.0.33",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "업데이트 중 조명이 여러 번 깜박이는 것이 정상이라는 안내를 추가했습니다."
+   "notes": "앱에서 '전체 로그'가 내려받아지지 않던 문제를 고쳤습니다."
   }
  }
 }
