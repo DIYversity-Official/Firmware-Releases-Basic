@@ -1,12 +1,12 @@
 {
- "ver": "1.0.33",
+ "ver": "1.0.34",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "앱에서 '전체 로그'가 내려받아지지 않던 문제를 고쳤습니다.",
+ "notes": "WiFi가 오래 불안정할 때 제어기가 재시작될 수 있던 메모리 누수를 고쳤고, 전체 로그가 비어 나오던 문제를 고쳤습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.33",
+   "ver": "1.0.34",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "앱에서 '전체 로그'가 내려받아지지 않던 문제를 고쳤습니다."
+   "notes": "WiFi가 오래 불안정할 때 제어기가 재시작될 수 있던 메모리 누수를 고쳤고, 전체 로그가 비어 나오던 문제를 고쳤습니다."
   }
  }
 }
