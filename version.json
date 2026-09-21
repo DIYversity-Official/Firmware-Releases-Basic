@@ -1,12 +1,12 @@
 {
- "ver": "1.0.35",
+ "ver": "1.0.36",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "WiFi가 불안정할 때 제어기가 재시작되거나 앱에서 연결이 안 되던 문제를 고쳤습니다.",
+ "notes": "공유기를 바꿀 때 초기화 없이 앱에서 바로 변경할 수 있습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.35",
+   "ver": "1.0.36",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "WiFi가 불안정할 때 제어기가 재시작되거나 앱에서 연결이 안 되던 문제를 고쳤습니다."
+   "notes": "공유기를 바꿀 때 초기화 없이 앱에서 바로 변경할 수 있습니다."
   }
  }
 }
