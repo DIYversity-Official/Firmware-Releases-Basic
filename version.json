@@ -1,12 +1,12 @@
 {
- "ver": "1.0.39",
+ "ver": "1.0.40",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "부하 상황에서 제어기가 재시작되던 문제와, 일부 버전이 무선 업데이트에 실패하던 문제를 고쳤습니다.",
+ "notes": "로그 저장 방식을 바꿔 30분마다 생기던 멈춤과 저장 공간 부족을 없앤다.",
  "lines": {
   "1": {
-   "ver": "1.0.39",
+   "ver": "1.0.40",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "부하 상황에서 제어기가 재시작되던 문제와, 일부 버전이 무선 업데이트에 실패하던 문제를 고쳤습니다."
+   "notes": "로그 저장 방식을 바꿔 30분마다 생기던 멈춤과 저장 공간 부족을 없앤다."
   }
  }
 }
