@@ -1,12 +1,12 @@
 {
- "ver": "1.0.42",
+ "ver": "1.0.43",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "팔레트 선택을 색상 카드로 통합(연출 카드 팔레트 줄 삭제, 연출 종류별 자동 전환)",
+ "notes": "CCT 제품 '색상만' 자동 백색을 색에 맞춰 두 백색 LED 로(더하기 블렌딩, 최대 밝기)",
  "lines": {
   "1": {
-   "ver": "1.0.42",
+   "ver": "1.0.43",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "팔레트 선택을 색상 카드로 통합(연출 카드 팔레트 줄 삭제, 연출 종류별 자동 전환)"
+   "notes": "CCT 제품 '색상만' 자동 백색을 색에 맞춰 두 백색 LED 로(더하기 블렌딩, 최대 밝기)"
   }
  }
 }
