@@ -1,12 +1,12 @@
 {
- "ver": "1.0.41",
+ "ver": "1.0.42",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "메모리가 조각나 통신이 멈추던 상태를 미리 막고 스스로 복구합니다. 일부 버전에서 무선 업데이트가 실패하던 문제를 고쳤습니다. 색상 화면에 전문가 설정과 최근 색을, CCT 제품에 백색 LED 카드를 추가했습니다.",
+ "notes": "팔레트 선택을 색상 카드로 통합(연출 카드 팔레트 줄 삭제, 연출 종류별 자동 전환)",
  "lines": {
   "1": {
-   "ver": "1.0.41",
+   "ver": "1.0.42",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "메모리가 조각나 통신이 멈추던 상태를 미리 막고 스스로 복구합니다. 일부 버전에서 무선 업데이트가 실패하던 문제를 고쳤습니다. 색상 화면에 전문가 설정과 최근 색을, CCT 제품에 백색 LED 카드를 추가했습니다."
+   "notes": "팔레트 선택을 색상 카드로 통합(연출 카드 팔레트 줄 삭제, 연출 종류별 자동 전환)"
   }
  }
 }
