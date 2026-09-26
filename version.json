@@ -1,12 +1,12 @@
 {
- "ver": "1.0.44",
+ "ver": "1.0.45",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "JSON 요청 503 경합 제거(응답 직렬화 직후 잠금 해제), 백색 LED 카드 미리보기는 색상만에서 숨김",
+ "notes": "펌웨어 용량 확보(사용하지 않는 이더넷 코드 제거, 동작 변화 없음)",
  "lines": {
   "1": {
-   "ver": "1.0.44",
+   "ver": "1.0.45",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "JSON 요청 503 경합 제거(응답 직렬화 직후 잠금 해제), 백색 LED 카드 미리보기는 색상만에서 숨김"
+   "notes": "펌웨어 용량 확보(사용하지 않는 이더넷 코드 제거, 동작 변화 없음)"
   }
  }
 }
