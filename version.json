@@ -1,12 +1,12 @@
 {
- "ver": "1.0.45",
+ "ver": "1.0.46",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "펌웨어 용량 확보(사용하지 않는 이더넷 코드 제거, 동작 변화 없음)",
+ "notes": "WiFi 재연결 중 드물게 재시작되던 문제 수정(ESP-NOW), 크래시 원인 기록 개선",
  "lines": {
   "1": {
-   "ver": "1.0.45",
+   "ver": "1.0.46",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "펌웨어 용량 확보(사용하지 않는 이더넷 코드 제거, 동작 변화 없음)"
+   "notes": "WiFi 재연결 중 드물게 재시작되던 문제 수정(ESP-NOW), 크래시 원인 기록 개선"
   }
  }
 }
