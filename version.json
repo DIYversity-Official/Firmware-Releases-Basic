@@ -1,12 +1,12 @@
 {
- "ver": "1.0.46",
+ "ver": "1.0.47",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "WiFi 재연결 중 드물게 재시작되던 문제 수정(ESP-NOW), 크래시 원인 기록 개선",
+ "notes": "안정성 개선: 쓰지 않는 ESP-NOW 동기 기능 제거로 메모리 여유 확보",
  "lines": {
   "1": {
-   "ver": "1.0.46",
+   "ver": "1.0.47",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "WiFi 재연결 중 드물게 재시작되던 문제 수정(ESP-NOW), 크래시 원인 기록 개선"
+   "notes": "안정성 개선: 쓰지 않는 ESP-NOW 동기 기능 제거로 메모리 여유 확보"
   }
  }
 }
