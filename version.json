@@ -1,12 +1,12 @@
 {
- "ver": "1.0.48",
+ "ver": "1.0.49",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "전원 복원: 전원을 다시 넣으면 마지막 상태로 돌아옴(시퀀스의 전원온·앱온 설정이 있으면 그쪽 우선), 그룹 업데이트 직후 메모리 안정성 개선",
+ "notes": "기기 로그 개선: 상태를 바꿀 때마다 쌓이던 정체 기록을 정리해 로그가 더 오래 남음",
  "lines": {
   "1": {
-   "ver": "1.0.48",
+   "ver": "1.0.49",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "전원 복원: 전원을 다시 넣으면 마지막 상태로 돌아옴(시퀀스의 전원온·앱온 설정이 있으면 그쪽 우선), 그룹 업데이트 직후 메모리 안정성 개선"
+   "notes": "기기 로그 개선: 상태를 바꿀 때마다 쌓이던 정체 기록을 정리해 로그가 더 오래 남음"
   }
  }
 }
