@@ -1,12 +1,12 @@
 {
- "ver": "1.0.47",
+ "ver": "1.0.48",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "안정성 개선: 쓰지 않는 ESP-NOW 동기 기능 제거로 메모리 여유 확보",
+ "notes": "전원 복원: 전원을 다시 넣으면 마지막 상태로 돌아옴(시퀀스의 전원온·앱온 설정이 있으면 그쪽 우선), 그룹 업데이트 직후 메모리 안정성 개선",
  "lines": {
   "1": {
-   "ver": "1.0.47",
+   "ver": "1.0.48",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "안정성 개선: 쓰지 않는 ESP-NOW 동기 기능 제거로 메모리 여유 확보"
+   "notes": "전원 복원: 전원을 다시 넣으면 마지막 상태로 돌아옴(시퀀스의 전원온·앱온 설정이 있으면 그쪽 우선), 그룹 업데이트 직후 메모리 안정성 개선"
   }
  }
 }
