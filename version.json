@@ -1,12 +1,12 @@
 {
- "ver": "1.0.50",
+ "ver": "1.0.51",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "기기 로그 개선: 기기에 남은 전체 기록을 한 번에 내려받고, 같은 공간에 두 배 넘게 보관",
+ "notes": "공유기 재연결 개선: 공유기가 잠깐 끊겼다 돌아와도 그룹 마스터가 스스로 다시 연결됩니다",
  "lines": {
   "1": {
-   "ver": "1.0.50",
+   "ver": "1.0.51",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "기기 로그 개선: 기기에 남은 전체 기록을 한 번에 내려받고, 같은 공간에 두 배 넘게 보관"
+   "notes": "공유기 재연결 개선: 공유기가 잠깐 끊겼다 돌아와도 그룹 마스터가 스스로 다시 연결됩니다"
   }
  }
 }
