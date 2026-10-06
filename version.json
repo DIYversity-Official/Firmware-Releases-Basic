@@ -1,12 +1,12 @@
 {
- "ver": "1.0.52",
+ "ver": "1.0.53",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "그룹 동기 안정성 개선: 전원을 켠 직후 멈칫함을 줄이고, 여러 제어기가 같은 순간에 바뀌도록 보호를 강화했습니다",
+ "notes": "켜짐 속도 개선: 공유기 접속 때의 멈칫함을 없애 그룹이 더 빨리 준비됩니다",
  "lines": {
   "1": {
-   "ver": "1.0.52",
+   "ver": "1.0.53",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "그룹 동기 안정성 개선: 전원을 켠 직후 멈칫함을 줄이고, 여러 제어기가 같은 순간에 바뀌도록 보호를 강화했습니다"
+   "notes": "켜짐 속도 개선: 공유기 접속 때의 멈칫함을 없애 그룹이 더 빨리 준비됩니다"
   }
  }
 }
