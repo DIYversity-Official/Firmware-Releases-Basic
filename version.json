@@ -1,12 +1,12 @@
 {
- "ver": "1.0.54",
+ "ver": "1.0.55",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "연출 안정화: 앱으로 끌 때 서서히 꺼지는 연출이 빠지지 않고, 전원을 켠 뒤 웰컴이 처음부터 이어집니다",
+ "notes": "안정성 개선: 제어기의 여유 메모리를 약 20KB 늘려 앱 화면이 끊기거나 응답이 늦어지는 일을 줄였습니다",
  "lines": {
   "1": {
-   "ver": "1.0.54",
+   "ver": "1.0.55",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "연출 안정화: 앱으로 끌 때 서서히 꺼지는 연출이 빠지지 않고, 전원을 켠 뒤 웰컴이 처음부터 이어집니다"
+   "notes": "안정성 개선: 제어기의 여유 메모리를 약 20KB 늘려 앱 화면이 끊기거나 응답이 늦어지는 일을 줄였습니다"
   }
  }
 }
