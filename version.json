@@ -1,12 +1,12 @@
 {
- "ver": "1.0.55",
+ "ver": "1.0.56",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "안정성 개선: 제어기의 여유 메모리를 약 20KB 늘려 앱 화면이 끊기거나 응답이 늦어지는 일을 줄였습니다",
+ "notes": "플리커 개선: 앱 화면을 열어 두거나 오래 켜 둘 때 가끔 한 번씩 번쩍이던 현상의 원인을 없앴습니다",
  "lines": {
   "1": {
-   "ver": "1.0.55",
+   "ver": "1.0.56",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "안정성 개선: 제어기의 여유 메모리를 약 20KB 늘려 앱 화면이 끊기거나 응답이 늦어지는 일을 줄였습니다"
+   "notes": "플리커 개선: 앱 화면을 열어 두거나 오래 켜 둘 때 가끔 한 번씩 번쩍이던 현상의 원인을 없앴습니다"
   }
  }
 }
