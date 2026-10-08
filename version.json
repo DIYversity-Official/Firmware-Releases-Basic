@@ -1,12 +1,12 @@
 {
- "ver": "1.0.56",
+ "ver": "1.0.57",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "플리커 개선: 앱 화면을 열어 두거나 오래 켜 둘 때 가끔 한 번씩 번쩍이던 현상의 원인을 없앴습니다",
+ "notes": "플리커 개선: 켜 둔 동안 가끔 한 번씩 살짝 어두워졌다 돌아오던 깜박임의 원인을 없앴습니다. 제어기 한 대의 LED 길이 상한을 350개로 조정했습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.56",
+   "ver": "1.0.57",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "플리커 개선: 앱 화면을 열어 두거나 오래 켜 둘 때 가끔 한 번씩 번쩍이던 현상의 원인을 없앴습니다"
+   "notes": "플리커 개선: 켜 둔 동안 가끔 한 번씩 살짝 어두워졌다 돌아오던 깜박임의 원인을 없앴습니다. 제어기 한 대의 LED 길이 상한을 350개로 조정했습니다."
   }
  }
 }
