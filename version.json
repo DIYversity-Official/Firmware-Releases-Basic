@@ -1,12 +1,12 @@
 {
- "ver": "1.0.58",
+ "ver": "1.0.59",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "개발자 설정에 긴 로그(플래시 기록) 켜기/끄기를 추가했습니다(기본 켜짐). 전원을 켠 직후 연출이 도는 동안에는 로그 저장을 미뤄 연출이 끊기지 않게 했습니다.",
+ "notes": "확장 장비(I2C) 검색과 시퀀스 I2C 트리거 감시를 EXT 단자(별도 I2C 채널)에서 하도록 바꿨습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.58",
+   "ver": "1.0.59",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "개발자 설정에 긴 로그(플래시 기록) 켜기/끄기를 추가했습니다(기본 켜짐). 전원을 켠 직후 연출이 도는 동안에는 로그 저장을 미뤄 연출이 끊기지 않게 했습니다."
+   "notes": "확장 장비(I2C) 검색과 시퀀스 I2C 트리거 감시를 EXT 단자(별도 I2C 채널)에서 하도록 바꿨습니다."
   }
  }
 }
