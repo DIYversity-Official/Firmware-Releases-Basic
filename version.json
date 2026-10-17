@@ -1,12 +1,12 @@
 {
- "ver": "1.0.59",
+ "ver": "1.0.60",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "확장 장비(I2C) 검색과 시퀀스 I2C 트리거 감시를 EXT 단자(별도 I2C 채널)에서 하도록 바꿨습니다.",
+ "notes": "전원을 켤 때 마스터 AP 의 보안 키를 미리 계산해 두어, 켜짐 연출이 0.6초 멈추던 현상을 없앴습니다(그룹 첫 시작도 약 0.6초 빨라짐). 로그의 정체 원인 표시를 보완했습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.59",
+   "ver": "1.0.60",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "확장 장비(I2C) 검색과 시퀀스 I2C 트리거 감시를 EXT 단자(별도 I2C 채널)에서 하도록 바꿨습니다."
+   "notes": "전원을 켤 때 마스터 AP 의 보안 키를 미리 계산해 두어, 켜짐 연출이 0.6초 멈추던 현상을 없앴습니다(그룹 첫 시작도 약 0.6초 빨라짐). 로그의 정체 원인 표시를 보완했습니다."
   }
  }
 }
