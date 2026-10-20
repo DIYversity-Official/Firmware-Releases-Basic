@@ -1,12 +1,12 @@
 {
- "ver": "1.0.61",
+ "ver": "1.0.62",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "색 보정(감마)을 모든 기기에서 같은 값으로 고정했습니다. 설정을 바꾸거나 초기화해도 그룹 안 기기들의 색감이 달라지지 않습니다.",
+ "notes": "LED 프레임 속도를 모든 기기에서 초당 30으로 고정했습니다. 설정이나 초기화와 무관하게 같은 속도로 동작합니다.",
  "lines": {
   "1": {
-   "ver": "1.0.61",
+   "ver": "1.0.62",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "색 보정(감마)을 모든 기기에서 같은 값으로 고정했습니다. 설정을 바꾸거나 초기화해도 그룹 안 기기들의 색감이 달라지지 않습니다."
+   "notes": "LED 프레임 속도를 모든 기기에서 초당 30으로 고정했습니다. 설정이나 초기화와 무관하게 같은 속도로 동작합니다."
   }
  }
 }
