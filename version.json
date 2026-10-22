@@ -1,12 +1,12 @@
 {
- "ver": "1.0.62",
+ "ver": "1.0.63",
  "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
- "notes": "LED 프레임 속도를 모든 기기에서 초당 30으로 고정했습니다. 설정이나 초기화와 무관하게 같은 속도로 동작합니다.",
+ "notes": "모션인식센서(SEN0610)를 지원합니다. 설정 탭에서 감도·감지 거리·인식 유지 시간을 조절하고, 시퀀스에서 인식/미인식 트리거를 쓸 수 있습니다. 확장 I2C 안정성을 높였습니다.",
  "lines": {
   "1": {
-   "ver": "1.0.62",
+   "ver": "1.0.63",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
-   "notes": "LED 프레임 속도를 모든 기기에서 초당 30으로 고정했습니다. 설정이나 초기화와 무관하게 같은 속도로 동작합니다."
+   "notes": "모션인식센서(SEN0610)를 지원합니다. 설정 탭에서 감도·감지 거리·인식 유지 시간을 조절하고, 시퀀스에서 인식/미인식 트리거를 쓸 수 있습니다. 확장 I2C 안정성을 높였습니다."
   }
  }
 }
