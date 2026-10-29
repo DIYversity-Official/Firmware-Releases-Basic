@@ -7,6 +7,11 @@
    "ver": "1.0.64",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware.bin",
    "notes": "HLK-LD2412 거리 센서를 지원합니다. 설정 탭에서 감지 거리·감도·무인 지연 시간을 센서에 저장하고, 시퀀스에서 인식/미인식 트리거를 쓸 수 있습니다."
+  },
+  "2": {
+   "ver": "2.0.0",
+   "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware-2.bin",
+   "notes": "ESP32-S3 보드(PV4)용 첫 펌웨어입니다. 기능은 1.0.64 와 같고, 색 순서 보정이 첫 부팅 직후에도 동작하도록 고쳤습니다."
   }
  }
 }
