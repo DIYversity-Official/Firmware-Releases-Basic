@@ -14,9 +14,9 @@
    "notes": "다른 조명이 켜지거나 다시 시작할 때 마스터 조명의 연출이 순간적으로 튀던 문제를 고쳤습니다."
   },
   "3": {
-   "ver": "3.0.2",
+   "ver": "3.0.3",
    "bin": "https://raw.githubusercontent.com/DIYversity-Official/Firmware-Releases-Basic/main/firmware-3.bin",
-   "notes": "숨쉬기처럼 밝기가 서서히 변하는 연출이 낮은 밝기에서 끊겨 보이던 문제를 고쳤습니다. 밝기가 더 매끄럽게 이어집니다."
+   "notes": "밝기가 서서히 변하는 연출이 가끔 1초쯤 멈췄다 튀던 문제를 고쳤습니다. 다른 조명이 켜질 때 연출이 순간적으로 튀던 문제도 함께 고쳤습니다."
   }
  }
 }
